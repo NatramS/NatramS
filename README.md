@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **RedHat Ansible Automation Platform, OpenShift, OpenShift AI**
 
-- 💬 Ask me about **AWS, OCI, Dynatrace, Jenkins CICD, Ansible, Terraform, Docker, Kubernetes**
+- 💬 Ask me about **AWS, OCI, GCP, Dynatrace, Jenkins CICD, Ansible, Terraform, Docker, Kubernetes**
 
 - 📫 How to reach me **sharath.natram@gmail.com**
 
