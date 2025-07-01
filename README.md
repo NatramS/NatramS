@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sharath Natram</h1>
 <h3 align="center">Cloud & DevOps Consultant | Infrastructure as Code Enthusiast | Automation Advocate Helping organizations bridge the gap between development and operations through scalable cloud architectures and end-to-end automation. Passionate about simplifying complex deployments using tools like Terraform, Ansible, Jenkins, Docker, and Kubernetes across AWS, GCP, and OCI. I build resilient, secure, and cost-optimized cloud environments—one commit at a time.</h3>
+<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/d8086a54-56c6-4920-94e9-76b2b40bfe99">
+">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natrams&label=Profile%20views&color=0e75b6&style=flat" alt="natrams" /> </p>
 
