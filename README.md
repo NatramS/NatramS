@@ -1,3 +1,4 @@
+![logo](https://github.com/NatramS/NatramS/blob/main/Blue%20and%20White%20Futuristic%20Artificial%20Intelligence%20Technology%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sharath Natram</h1>
 <h3 align="center">Cloud & DevOps Consultant | Infrastructure as Code Enthusiast | Automation Advocate Helping organizations bridge the gap between development and operations through scalable cloud architectures and end-to-end automation. Passionate about simplifying complex deployments using tools like Terraform, Ansible, Jenkins, Docker, and Kubernetes across AWS, Azure, and OCI. I build resilient, secure, and cost-optimized cloud environments—one commit at a time.</h3>
 
