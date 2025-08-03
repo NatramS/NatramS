@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://innovatecloudops.com/](https://innovatecloudops.com/)
 
-- 💬 Ask me about **AWS, OCI, Dynatrace, Jenkins CICD, Ansible, Terraform, Docker, Kubernetes**
+- 💬 Ask me about **AWS, OCI, GCP, Dynatrace, Grafana, Jenkins CICD, IBM UrbanCode, Ansible, Terraform, Docker, Kubernetes**
 
 - 📫 How to reach me **sharath.natram@gmail.com**
 
